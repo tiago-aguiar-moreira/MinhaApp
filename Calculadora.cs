@@ -7,7 +7,7 @@ public class Calculadora
         return a * b;
     }
 
-    public int Dividir(int a, int b)
+    public int Dividir2(int a, int b)
     {
         return a / b;
     }
