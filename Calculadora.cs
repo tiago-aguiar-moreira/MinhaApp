@@ -7,11 +7,6 @@ public class Calculadora
         return a + b;
     }
 
-    public int Subtrair(int a, int b)
-    {
-        return a - b;
-    }
-
     public int Multiplicar(int a, int b)
     {
         return a * b;
