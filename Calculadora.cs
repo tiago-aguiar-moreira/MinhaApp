@@ -2,7 +2,7 @@ namespace MinhaApp;
 
 public class Calculadora
 { 
-    public int Multiplicar(int a, int b)
+    public int Multiplicacao(int a, int b)
     {
         return a * b;
     }
