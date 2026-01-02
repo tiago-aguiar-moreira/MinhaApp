@@ -11,4 +11,9 @@ public class Calculadora
     {
         return a * b;
     }
+
+    public int Dividir(int a, int b)
+    {
+        return a / b;
+    }
 }
